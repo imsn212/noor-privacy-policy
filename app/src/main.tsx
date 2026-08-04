@@ -2,7 +2,7 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
-const contactEmail = 'support@noor-app.com';
+const contactEmail = 'ismansour212@gmail.com';
 
 const policySections = [
   {
@@ -97,7 +97,6 @@ function App() {
               <a href={`mailto:${contactEmail}`} className="email-link">
                 {contactEmail}
               </a>
-              <p className="edit-note">يمكن تعديل البريد لاحقًا من متغير contactEmail داخل ملف src/main.tsx.</p>
             </div>
           </article>
         </div>

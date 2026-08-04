@@ -193,12 +193,6 @@ p {
   background: var(--green-dark);
 }
 
-.edit-note {
-  margin-top: 12px;
-  color: #7b877f;
-  font-size: 0.92rem;
-}
-
 .footer {
   display: flex;
   justify-content: space-between;
